@@ -1,8 +1,8 @@
-# Frontend Mentor - Todo app solution
+# Todo App
 
-This is a solution to the [Todo app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/todo-app-Su1_KokOW). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This project is a solution to the [Todo app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/todo-app-Su1_KokOW). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-![](./src/assets/images/screenshot.png)
+![](./src/assets/images/todoApp.png)
 
 ### The challenge
 
@@ -17,8 +17,7 @@ This is a solution to the [Todo app challenge on Frontend Mentor](https://www.fr
 
 ### Links
 
-- [Solution](https://www.frontendmentor.io/solutions/todo-app-react-eZxMRC16n)
-- [Live site](https://todo-app-react-developingweb.vercel.app/)
+- [Live site](https://dacooleric-todo-app.netlify.app/)
 
 ### Built with
 
@@ -27,10 +26,6 @@ This is a solution to the [Todo app challenge on Frontend Mentor](https://www.fr
 - [React](https://reactjs.org/) - JS library
 - [Styled Components](https://styled-components.com/) - For styles
 
-### What I learned
-
-This is my first ever project with react. I have learnt a lot about react while making this project.
-
 ## Author
 
-- Frontend Mentor - [@developingWeb](https://www.frontendmentor.io/profile/developingWeb)
+- Eric Kodzo Ayi alias Dacooleric - [@developingWeb](https://dacooleric.netlify.app/)
