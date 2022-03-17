@@ -28,4 +28,4 @@ This project is a solution to the [Todo app challenge on Frontend Mentor](https:
 
 ## Author
 
-- Eric Kodzo Ayi alias Dacooleric - [@developingWeb](https://dacooleric.netlify.app/)
+- Eric Kodzo Ayi alias Dacooleric - [Portfolio](https://dacooleric.netlify.app/)
